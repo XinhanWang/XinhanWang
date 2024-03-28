@@ -1,35 +1,35 @@
-# 个人主页🏡🏡🏡 (Personal Homepage)
+# Personal Homepage 🏡🏡🏡
 
-欢迎来到我的GitHub个人主页😀😀😀！在这里，你可以了解到我的项目、经历和一些个人信息。如果你对我的工作感兴趣或者想要与我合作，请不要犹豫，直接与我联系。
+Welcome to my GitHub Personal Homepage 😀😀😀! Here, you can learn about my projects, experiences, and some personal information. If you are interested in my work or would like to collaborate with me, please don't hesitate to contact me.
 
-## 关于我😸😸😸 (About Me)
+## About Me 😸😸😸
 
-我是一名来自华中科技大学未来技术学院的本科生，专注于技术和创新。我热爱编程💻💻💻，对新技术充满好奇心，并且总是乐于接受挑战。
+I am an undergraduate student from the School of Future Technology at Huazhong University of Science and Technology, focusing on technology and innovation. I have a passion for programming 💻💻💻, am always curious about new technologies, and am eager to embrace challenges.
 
-## 教育背景🎓🎓🎓 (Education Background)
+## Education Background 🎓🎓🎓
 
-- 华中科技大学，未来技术学院，本科生
+- Huazhong University of Science and Technology, School of Future Technology, Undergraduate
 
-## 技能👨‍💻👨‍💻👨‍💻 (Skills)
+## Skills 👨‍💻👨‍💻👨‍💻
 
-- 编程语言：Python, C ,汇编语言
-- 框架：Pytorch
-- 版本控制：Git
+- Programming Languages: Python, C, Assembly Language
+- Framework: Pytorch
+- Version Control: Git
 
-## 荣誉与奖项🏆🏆🏆 (Honors and Awards)
+## Honors and Awards 🏆🏆🏆
 
-- 华中科技大学本科特优生
-- 华中科技大学学习优秀奖学金
-- “杉川杯”华中科技大学机器人大赛二等奖
+- Outstanding Undergraduate Student at Huazhong University of Science and Technology
+- Academic Excellence Scholarship from Huazhong University of Science and Technology
+- Second Prize in the "Shanchuan Cup" Huazhong University of Science and Technology Robotics Competition
 
-## 联系方式☎☎☎ (Contact Information)
+## Contact Information ☎☎☎
 
 - GitHub: [HB16888](https://github.com/HB16888)
-- 邮箱: [u202114687@hust.edu.cn](mailto:u202114687@hust.edu.cn)
+- Email: [u202114687@hust.edu.cn](mailto:u202114687@hust.edu.cn)
 
-## 致谢💕💕💕 (Acknowledgements)
+## Acknowledgements 💕💕💕
 
-感谢所有支持和鼓励我的人，是你们让我变得更好。
+Thank you to everyone who has supported and encouraged me; it is you who have made me better.
 <!--
 **HB16888/HB16888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
