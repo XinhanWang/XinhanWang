@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Personal Homepage 😀😀😀! Here, you can learn about my projects, experiences, and some personal information. If you are interested in my work or would like to collaborate with me, please don't hesitate to contact me.
 
-If you prefer the Chinese version, please visit [中文主页](README.zh.md)。
+If you prefer the Chinese version, please visit [个人主页](README.zh.md)。
 ## About Me 😸😸😸
 
 I am an undergraduate student from the School of Future Technology at Huazhong University of Science and Technology, focusing on technology and innovation. I have a passion for programming 💻💻💻, am always curious about new technologies, and am eager to embrace challenges.
