@@ -25,7 +25,7 @@ I am an undergraduate student from the School of Future Technology at Huazhong U
 
 ## Contact Information ☎☎☎
 
-- GitHub: [HB16888](https://github.com/HB16888)
+- GitHub: [XinhanWang](https://github.com/XinhanWang)
 - Email: [u202114687@hust.edu.cn](mailto:u202114687@hust.edu.cn)
 
 ## Acknowledgements 💕💕💕
