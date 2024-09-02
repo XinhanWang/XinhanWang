@@ -25,7 +25,7 @@
 
 ## 联系方式☎☎☎ 
 
-- GitHub: [HB16888](https://github.com/HB16888)
+- GitHub: [XinhanWang](https://github.com/XinhanWang)
 - 邮箱: [u202114687@hust.edu.cn](mailto:u202114687@hust.edu.cn)
 
 ## 致谢💕💕💕 
