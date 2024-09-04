@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XinhanWang)](https://github.com/anuraghazra/github-readme-stats)
 # Personal Homepage 🏡🏡🏡
 
 Welcome to my GitHub Personal Homepage 😀😀😀! Here, you can learn about my projects, experiences, and some personal information. If you are interested in my work or would like to collaborate with me, please don't hesitate to contact me.
