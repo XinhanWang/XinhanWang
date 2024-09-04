@@ -32,15 +32,7 @@ I am an undergraduate student from the School of Future Technology at Huazhong U
 ## Acknowledgements 💕💕💕
 
 Thank you to everyone who has supported and encouraged me; it is you who have made me better.
-## Star History
 
-<a href="https://star-history.com/#XinhanWang/XinhanWang&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=XinhanWang/XinhanWang&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=XinhanWang/XinhanWang&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=XinhanWang/XinhanWang&type=Date" />
- </picture>
-</a>
 <!--
 **HB16888/HB16888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
