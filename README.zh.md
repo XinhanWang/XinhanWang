@@ -32,6 +32,11 @@
 ## 致谢💕💕💕 
 
 感谢所有支持和鼓励我的人，是你们让我变得更好。
+
+## 星数历史
+
+[![Star History Chart](https://api.star-history.com/svg?repos=XinhanWang/XinhanWang&type=Date)](https://star-history.com/#XinhanWang/XinhanWang&Date)
+
 <!--
 **HB16888/HB16888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
