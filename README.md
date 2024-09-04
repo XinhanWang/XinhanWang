@@ -32,6 +32,7 @@ I am an undergraduate student from the School of Future Technology at Huazhong U
 ## Acknowledgements 💕💕💕
 
 Thank you to everyone who has supported and encouraged me; it is you who have made me better.
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=XinhanWang/XinhanWang&type=Date)](https://star-history.com/#XinhanWang/XinhanWang&Date)
